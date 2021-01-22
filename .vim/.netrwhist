@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/devien/code/updater-git/src'
+let g:netrw_dirhist_1='/home/devien/code/updater-git'
+let g:netrw_dirhist_0='/mnt/c/Users/Boehme/Downloads/liquibase'
+let g:netrw_dirhist_9='/mnt/c/code/liquibase'
+let g:netrw_dirhist_8='/mnt/c/code/vue/client/src'
+let g:netrw_dirhist_7='/home/devien/code/clojure/testapp'
+let g:netrw_dirhist_6='/mnt/c/code/liquidfileftpsync'
+let g:netrw_dirhist_5='/mnt/c/Perforce/jboehme_PC2014-4056_5011/ASC/NewSoftware/TAGS/6.0/Java/Setup/Updater'
+let g:netrw_dirhist_4='/mnt/c/code/vue/client/src'
+let g:netrw_dirhist_3='/home/devien/code'
