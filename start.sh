@@ -1,0 +1,1 @@
+vim /root/start.txt

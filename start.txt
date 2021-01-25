@@ -1,0 +1,42 @@
+                                                _   _ _ _   _                 _       
+                                               | | | | | |_(_)_ __ ___   __ _| |_ ___ 
+                                               | | | | | __| | '_ ` _ \ / _` | __/ _ \
+                                               | |_| | | |_| | | | | | | (_| | ||  __/
+                                                \___/|_|\__|_|_| |_| |_|\__,_|\__\___|
+                                                                                      
+                                                ____  _______     __    __  __    _    ____ _   _ ___ _   _ _____ 
+                                               |  _ \| ____\ \   / /   |  \/  |  / \  / ___| | | |_ _| \ | | ____|
+                                               | | | |  _|  \ \ / /____| |\/| | / _ \| |   | |_| || ||  \| |  _|  
+                                               | |_| | |___  \ V /_____| |  | |/ ___ \ |___|  _  || || |\  | |___ 
+                                               |____/|_____|  \_/      |_|  |_/_/   \_\____|_| |_|___|_| \_|_____|
+Vim Shortcuts:
+:PlugInstall : Install Plugins!!!
+
+Movement:                                                      . : repeat last command
+H M L : high middle low (cursor)                               : : open Command prompt
+gg G : top of file / bottom of file                            / : search 
+zz zt zb : curser to middle / top / bottom                     ? : search backwards
+hjkl : move cursor                                             n N : next / previous find
+w b e : word / word-back /end                                  :w ZZ : save file
+s p : sentence paragraph                                       :q! ZQ :quit file
+
+Range:                                                         ,, : expand HTML element
+f t F T : find / till / find-back / till-back                  K : show code documentation
+a i : arround / inside                                         ,gi : goto implementation
+                                                               ,gd : goto definition
+Action:                                                        ,F : fix Errors
+i I : insert / insert at SOL                                   :Files search for file
+a A : append / append at EOL                                   :Rg search for line in any file in path
+c C : change / change from here on                             :Commands search commands
+d D dd : delete / delete from here on / delete line            :Maps search mappings
+y Y yy : yank / yank from here on / yank line (copy)
+p P pp : paste / paste after cursor / paste line               TMUX:
+r : replace character under cursor                             CTRL+A : TMUX PREFIX!!!
+                                                               PREFIX + " : split panel horizontally
+Examples:                                                      PREFIX + % : split panel vertically
+3w : 3 words to the right                                      PREFIX + x + y : close panel
+das : delete around sentende                                   PREFIX + hjkl : move to panel
+diw : delete in word                                           PREFIX + num : go to window with number
+c3w : change 3 words                                           PREFIX + c : create window
+dt) : delete till )                                            PREFIX + CTRL + hjkl : resize panel
+
