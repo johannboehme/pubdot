@@ -1,1 +1,1 @@
-tmux new-session -d -s "dev" vim /root/start.txt
+tmux new-session -s "dev" vim /root/start.txt
